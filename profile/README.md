@@ -18,6 +18,13 @@ curl -H "Authorization: Bearer YOUR_API_KEY" \
   "https://earningsfeed.com/api/v1/filings?limit=10"
 ```
 
+## Tutorials
+
+Step-by-step guides with Python and JavaScript examples:
+
+- [Track Insider Trading with the Earnings Feed API](https://gist.github.com/nrempel/a563290f6ed75670043776f6f8d9bbb5) — Build alerts for Form 4 insider purchases
+- [Monitor Hedge Fund Holdings with 13F Data](https://gist.github.com/nrempel/200d7e21ebee7fdd64b50002c10d1006) — Track institutional investor portfolios
+
 ## Resources
 
 | Resource | Link |
